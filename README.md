@@ -23,11 +23,12 @@ Run:
 
 ### Usage:
 
-URI | Method| Description
+URL | Method| Description
 --- | --- | --- | 
 /users/list | GET | Show all names of users in system
 /users/delete/\<username\> | GET | Delete a user by username
 /users/add/\<username\> | GET | Add a user by username
+/add/\<username\> | GET | Also adding a user by username
 
 
 
